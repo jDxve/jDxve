@@ -21,7 +21,6 @@
 </div>
 
 ---
-
 ```
 $ cat about.txt
 
@@ -29,7 +28,6 @@ $ cat about.txt
   with backend experience in NestJS and TypeScript. Committed to clean
   code and clean architecture — building efficient, scalable apps.
 ```
-
 ---
 
 **`[ MOBILE ]`**
@@ -66,7 +64,6 @@ $ cat education.txt
   DEGREE    ::  BS Information Technology
   SCHOOL    ::  Bicol University College of Science
 ```
-
 ---
 
 **`[ CONNECT ]`**
