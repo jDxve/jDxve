@@ -8,7 +8,6 @@
   ██████╔╝██║  ██║ ╚████╔╝ ███████╗
   ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
 ```
-
 ##### `Mobile-first. Backend-Ready. Architecture-Driven.`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=800&color=00FF41&center=true&vCenter=true&width=520&lines=%24+whoami;john+dave+b.+ba%C3%B1as;%24+cat+role.txt;mobile-developer;%24+cat+stack.txt;flutter+%7C+nestjs+%7C+clean+architecture;%24+echo+%24STATUS;online+%E2%96%A0;%24+_" alt="Typing SVG" />
