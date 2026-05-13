@@ -34,39 +34,27 @@ $ cat about.txt
 
 **`[ MOBILE ]`**
 
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48"/><br/><sub><b>Flutter</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48"/><br/><sub><b>Dart</b></sub></td>
-  </tr>
-</table>
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 **`[ BACKEND ]`**
 
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48"/><br/><sub><b>NestJS</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/><sub><b>TypeScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48"/><br/><sub><b>Express</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48"/><br/><sub><b>Redis</b></sub></td>
-  </tr>
-</table>
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **`[ TOOLS ]`**
 
-<table border="0">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub><b>Firebase</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48"/><br/><sub><b>VSCode</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48"/><br/><sub><b>Android Studio</b></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48"/><br/><sub><b>Xcode</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/><sub><b>Postman</b></sub></td>
-  </tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -83,19 +71,5 @@ $ cat education.txt
 
 **`[ CONNECT ]`**
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/jdv-b%C3%B1s">
-        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:johndavebanas03@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48"/><br/>
-        <sub><b>Gmail</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jdv-b%C3%B1s)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johndavebanas03@gmail.com)
