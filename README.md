@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ```
   ██████╗  █████╗ ██╗   ██╗███████╗
   ██╔══██╗██╔══██╗██║   ██║██╔════╝
@@ -21,8 +20,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ```
@@ -35,25 +32,18 @@ $ cat about.txt
 
 ---
 
-<br/>
-
 **`[ MOBILE ]`**
 
-<table>
+<table border="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48"/><br/><sub><b>Flutter</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dart&theme=dark" width="48"/><br/><sub><b>Dart</b></sub></td>
   </tr>
 </table>
 
-<br/>
-
-
-<br/>
-
 **`[ BACKEND ]`**
 
-<table>
+<table border="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="48"/><br/><sub><b>NestJS</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/><br/><sub><b>TypeScript</b></sub></td>
@@ -64,14 +54,9 @@ $ cat about.txt
   </tr>
 </table>
 
-<br/>
-
-
-<br/>
-
 **`[ TOOLS ]`**
 
-<table>
+<table border="0">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub><b>Firebase</b></sub></td>
@@ -82,11 +67,6 @@ $ cat about.txt
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48"/><br/><sub><b>Postman</b></sub></td>
   </tr>
 </table>
-
-<br/>
-
-
-<br/>
 
 ---
 
@@ -103,7 +83,7 @@ $ cat education.txt
 
 **`[ CONNECT ]`**
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/jdv-b%C3%B1s">
