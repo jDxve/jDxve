@@ -91,7 +91,5 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:johndavebanas03@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://www.jdxve.dev)
-
 <br>
-
 </div>
