@@ -1,53 +1,22 @@
 <div align="center">
 
 ```
-  ██████╗   █████╗  ██╗   ██╗ ███████╗
-  ██╔══██╗ ██╔══██╗ ██║   ██║ ██╔════╝
-  ██║  ██║ ███████║ ██║   ██║ █████╗  
-  ██║  ██║ ██╔══██║ ╚██╗ ██╔╝ ██╔══╝  
-  ██████╔╝ ██║  ██║  ╚████╔╝  ███████╗
-  ╚═════╝  ╚═╝  ╚═╝   ╚═══╝   ╚══════╝
+                                                                         ▄▄▀▀▄▄
+      ██╗ ██████╗ ██╗  ██╗███╗   ██╗  ██████╗  █████╗ ██╗   ██╗███████╗  ██████╗  █████╗ ███╗   ██╗ █████╗ ███████╗
+      ██║██╔═══██╗██║  ██║████╗  ██║  ██╔══██╗██╔══██╗██║   ██║██╔════╝  ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝
+      ██║██║   ██║███████║██╔██╗ ██║  ██║  ██║███████║██║   ██║█████╗    ██████╔╝███████║██╔██╗ ██║███████║███████╗
+ ██   ██║██║   ██║██╔══██║██║╚██╗██║  ██║  ██║██╔══██║╚██╗ ██╔╝██╔══╝    ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚════██║
+ ╚█████╔╝╚██████╔╝██║  ██║██║ ╚████║  ██████╔╝██║  ██║ ╚████╔╝ ███████╗  ██████╔╝██║  ██║██║ ╚████║██║  ██║███████║
+  ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 ```
-
-# `JOHN DAVE B. BAÑAS`
-
-##### `Mobile-First • Backend-Ready • Architecture-Driven`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=%24+whoami;john+dave+b.+ba%C3%B1as;%24+cat+role.txt;mobile+developer+%7C+cross-platform;%24+cat+focus.txt;clean+architecture+%7C+clean+code;%24+echo+%24STATUS;online+%E2%96%A0;%24+_" alt="Typing SVG" />
-
-<br>
-
-![Mobile](https://img.shields.io/badge/MOBILE-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
-&nbsp;
-![Backend](https://img.shields.io/badge/BACKEND-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)
-&nbsp;
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-0D1117?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
-&nbsp;
-![Firebase](https://img.shields.io/badge/FIREBASE-Analytics_%26_Crashlytics-0D1117?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
 
 </div>
 
----
+## `Stack`
 
-```
-$ cat about.txt
-
-  Hi, I'm John Dave — a Mobile Developer specializing in
-  cross-platform applications and an aspiring Mobile Software Engineer.
-
-  Focused on clean architecture, clean code, and constantly adopting
-  new tech to build efficient, scalable apps.
-
-  Currently exploring :: Kotlin · SwiftUI · Kotlin Multiplatform (KMP)
-```
-
----
-
-###### `$ ls -a stack/`
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ###### `[ MOBILE ]`
 
@@ -55,7 +24,7 @@ $ cat about.txt
 ![Dart](https://img.shields.io/badge/DART-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ###### `[ CI / CD & DEVOPS ]`
 
@@ -66,7 +35,7 @@ $ cat about.txt
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ###### `[ BACKEND & DATABASE ]`
 
@@ -78,7 +47,7 @@ $ cat about.txt
 ![Redis](https://img.shields.io/badge/REDIS-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ###### `[ FIREBASE & ANALYTICS ]`
 
@@ -90,7 +59,7 @@ $ cat about.txt
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ###### `[ TOOLS & WORKSPACE ]`
 
@@ -100,7 +69,7 @@ $ cat about.txt
 ![Postman](https://img.shields.io/badge/POSTMAN-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="left">
 
 ###### `[ EXPLORING ]`
 
@@ -117,10 +86,6 @@ $ cat about.txt
 
 <div align="center">
 
-```
-$ ./connect.sh
-```
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/jdv-b%C3%B1s)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:johndavebanas03@gmail.com)
@@ -128,7 +93,5 @@ $ ./connect.sh
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://www.jdxve.dev)
 
 <br>
-
-`■ online`
 
 </div>
